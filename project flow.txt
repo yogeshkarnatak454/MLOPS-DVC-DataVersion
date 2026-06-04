@@ -23,6 +23,9 @@ again dvc commit and dvc push it
 then git commit and the git push or dvc push the data 
 check dvc and git staus are upto date or not
 now repeat the steps aal steps again
+git log --one line 
+git checkout <hash> - git checkout master
+dvc pull 
 
 
 
