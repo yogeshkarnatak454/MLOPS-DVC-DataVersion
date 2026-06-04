@@ -16,6 +16,12 @@ and then use it
  git status
  now "dvc commit" and then "dvc push"
 isse s3 main data agya do baar
+do a git commit.push to mark this stage as first version of data
+
+now make changes to mycode.py to append the new row in data ,check changes via dvc status
+again dvc commit and dvc push it
+
+
 
 
 
