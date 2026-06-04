@@ -1,5 +1,24 @@
 create a git repo and clone it on local
 craete a code.py  and add code to it it will have a new file to a new data data folder
 a git commit here to do this and saved to the area
+initiate the dvc here 
+pip install dvc
+as i have installed dvc through pip then follow this coomand to initilaize dvc "python -m dvc init"
+now we do "dvc init" {create.dvcignore,.dvc}
+now we do mkdir s3 linux command to create a new s3 directory
+
+now we do "dvc remote add -d myremotes3" as same as git repositorty to the orgin 
+next "dvc add data"/
+ git rm -r --cached 'data' and git commit -m "stop tracking data" phele git se data hatao jo tarck hora tb uppar wali command run kro
+now add"dvc add data /"
+and then use it 
+ git add data.dvc .gitignore then do it there only
+ git status
+
+
+
+
+
+
 
 
