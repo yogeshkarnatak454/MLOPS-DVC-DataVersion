@@ -1,0 +1,5 @@
+create a git repo and clone it on local
+craete a code.py  and add code to it it will have a new file to a new data data folder
+a git commit here to do this and saved to the area
+
+
