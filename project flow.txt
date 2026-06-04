@@ -14,6 +14,8 @@ now add"dvc add data /"
 and then use it 
  git add data.dvc .gitignore then do it there only
  git status
+ now "dvc commit" and then "dvc push"
+isse s3 main data agya do baar
 
 
 
