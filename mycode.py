@@ -13,6 +13,10 @@ new_row_loc = {"name":"gf1","age":28,'city':"city1"}
 df.loc[len(df.index)] = new_row_loc
 
 
+new_row_loc2 = {"name":"gf2","age":30,'city':"city2"}
+df.loc[len(df.index)] = new_row_loc2
+
+
 
 # print(df)
 

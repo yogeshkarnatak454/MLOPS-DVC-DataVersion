@@ -20,6 +20,9 @@ do a git commit.push to mark this stage as first version of data
 
 now make changes to mycode.py to append the new row in data ,check changes via dvc status
 again dvc commit and dvc push it
+then git commit and the git push or dvc push the data 
+check dvc and git staus are upto date or not
+now repeat the steps aal steps again
 
 
 
