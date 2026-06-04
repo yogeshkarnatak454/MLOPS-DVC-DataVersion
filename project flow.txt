@@ -25,7 +25,13 @@ check dvc and git staus are upto date or not
 now repeat the steps aal steps again
 git log --one line 
 git checkout <hash> - git checkout master
+isse data rollback hoajeyga ussi jagah jha se shuru hua tha code 
 dvc pull 
+if you want to return to your code then git checkout main 
+
+dvc pulll then it will come back all your code 
+and yha pe sara end tak code ajayega 
+
 
 
 
